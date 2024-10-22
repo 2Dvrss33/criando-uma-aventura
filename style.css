@@ -1,7 +1,7 @@
 body {
-    background-color: blueviolet;
+    background-color: 1D4221;
     color: white;
-    font-family: "Matemasie", sans-serif;
+    font-family: "Bai Jamjuree", sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -10,9 +10,9 @@ body {
 }
 
 button {
-    background-color: darkorchid;
+    background-color: #64A712;
     color: black;
-    font-family: "Matemasie", sans-serif;
+    font-family: "Bai jamjuree", sans-serif;
 }
 
 .passo {
